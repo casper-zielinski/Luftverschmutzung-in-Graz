@@ -381,26 +381,7 @@ Dies zeigt die Grenzen statistischer Modelle bei außergewöhnlichen Ereignissen
 6. Außergewöhnliche Ereignisse (COVID-19) können nicht vorhergesagt werden
 7. NO2 reagiert stärker auf menschliche Aktivität als PM10
 
-### Anwendungsmöglichkeiten
-
-Das Modell könnte verwendet werden für:
-- Vorhersage der Luftqualität für die nächsten Tage
-- Frühwarnsystem bei ungünstigen Wetterlagen
-- Bewertung von Maßnahmen zur Luftreinhaltung
-- Unterstützung bei Policy-Entscheidungen
-
----
-
 ## Technische Details
-
-**Software:**
-- Python 3.12
-- Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
-
-**Datenquelle:**
-- Umwelt Steiermark: https://www.umwelt.steiermark.at
-- Station: Graz Don Bosco
-- Zeitraum: 2015-2020
 
 **Code:**
 - Main.py: Gesamte Analyse (Aufgaben 1-7)
